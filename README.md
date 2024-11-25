@@ -182,4 +182,4 @@ cd Leai-Server
 ## 联系方式
 - 作者：[nole]
 - 邮箱：[noleit@icloud.com]
-- 项目地址：[GitHub Repository URL]
+- 项目地址：[[GitHub Repository URL](https://github.com/imnole/LeAi)]
